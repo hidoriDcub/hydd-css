@@ -1,0 +1,19 @@
+{
+  "name": "hydd-css",
+  "version": "1.0.0",
+  "description": "hydd-css",
+  "main": "hydd.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hidoriDcub/hydd-css.git"
+  },
+  "author": "liujun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hidoriDcub/hydd-css/issues"
+  },
+  "homepage": "https://github.com/hidoriDcub/hydd-css#readme"
+}
